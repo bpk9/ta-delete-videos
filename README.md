@@ -5,5 +5,5 @@ A script to delete all downloaded videos from a [TubeArchivist](https://github.c
 
 Usage:
 ```
-python ta-delete-videos.py [-h] --api-key API_KEY --url URL [--dry-run]
+python ta_delete_videos.py [-h] --api-key API_KEY --url URL [--dry-run]
 ```
